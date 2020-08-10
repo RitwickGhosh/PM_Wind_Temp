@@ -1,2 +1,3 @@
 # PM_Wind_Temp
 (PM2.5 and PM10) and Meteorological data (Wind Speed, Atmospheric Temperature) 
+The following data explains the particulate matter (PM2.5 and PM10) and meteorological data (Wind Speed, Atmospheric Temperature) on 7th February 2018 11:00 am to 8th February 2018 10:00 am. It would also give an overview of the trend and data used in this paper and of the trend in different times of day.The data is the average concentrations of PM10, PM2.5, wind velocity and temperature recorded of twenty-four days (7th February 2018 to 2nd March 2018) at one such station located in Talchar Coalfields. Recording of CAAQMSs are considered as benchmark of air quality.
